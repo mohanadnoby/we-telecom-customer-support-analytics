@@ -93,7 +93,10 @@ This repository is a portfolio project. The dashboard should not be interpreted 
 Computer Science Student | Aspiring Data Analyst
 
 - GitHub: [mohanadnoby](https://github.com/mohanadnoby)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/
+mohanad-mohsen-30b8942a4
+اسم عنوان URL صغير
+
 
 ---
 
